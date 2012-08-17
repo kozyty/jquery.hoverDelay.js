@@ -1,11 +1,11 @@
 jqeury_hover_delay.js
 =====================
 
-# About
+## About
 
 *  jQuery の hover に delay 機能を追加した hoverDelay を作成しました。
 
-# Usage
+## Usage
 
     $(this).hoverDelay(
         function() {
@@ -19,3 +19,7 @@ jqeury_hover_delay.js
         1000, // ここは、hover開始までの待機時間 (number of milliseconds)
         1000  // ここは、hover終了までの待機時間 (number of milliseconds)
     );
+
+## License
+
+* The MIT License
